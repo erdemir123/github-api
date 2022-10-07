@@ -1,1 +1,1 @@
-# github-api
+# GitHub Followers App
